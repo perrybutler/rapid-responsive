@@ -1,4 +1,4 @@
-rapid-responsive
+Rapid Reponsive
 ================
 
 A light-weight WordPress theme built with Rapid Platform, currently in use at TheRapidPlatform.com.
